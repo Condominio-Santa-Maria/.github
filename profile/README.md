@@ -4,13 +4,11 @@
 
 Bienvenidos a la Wiki oficial del **Condominio Santa María I**. Este espacio ha sido creado con el propósito de proporcionar a los propietarios y residentes toda la información relevante relacionada con nuestra comunidad.
 
----
 
 ## Acerca del Condominio Santa María I
 
 Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar de muchas familias desde su fundación. Con una estructura arquitectónica moderna y áreas comunes diseñadas para el disfrute de todos, nuestra comunidad se enorgullece de ofrecer un ambiente seguro y armonioso para todos sus residentes.
 
----
 
 ## Contenidos de la Wiki
 
