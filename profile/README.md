@@ -18,8 +18,8 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 2. **Normativas y Reglamentos:** Información sobre las reglas de convivencia, uso de áreas comunes y otros aspectos relevantes.
 3. **Directorio:** Encuentra información de contacto de la directiva y administración del condominio.
     - [Roy Ruddy Paz Demiquel (Presidente)](../../../wiki/Presidente)
-    - [Mauro Hurtado (Vicepresidente)](Vicepresidente)
-    - [Ursula Echazú (Tesorera)](Tesorero)
+    - [Mauro Hurtado (Vicepresidente)](../../../wiki/Vicepresidente)
+    - [Ursula Echazú (Tesorera)](../../../wiki/Tesorero)
 
 5. **Eventos y Anuncios:** Mantente al día con las últimas noticias y eventos de la comunidad.
 6. **Proyectos y Mejoras:** Información sobre las propuestas y proyectos en marcha para el beneficio del condominio.
