@@ -1,6 +1,6 @@
 # Wiki del Condominio Santa María I
 
-![Imagen del Condominio Santa María I](URL_de_la_imagen_del_condominio)
+
 
 Bienvenidos a la Wiki oficial del **Condominio Santa María I**. Este espacio ha sido creado con el propósito de proporcionar a los propietarios y residentes toda la información relevante relacionada con nuestra comunidad.
 
