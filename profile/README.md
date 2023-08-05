@@ -15,14 +15,14 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 1. **Historia del Condominio:** Conoce más sobre los orígenes y la evolución de nuestra comunidad.
 2. **Normativas y Reglamentos:** Información sobre las reglas de convivencia, uso de áreas comunes y otros aspectos relevantes. 
 3. **Servicios:** Información sobre los servicios que brinda el Condominio Santa María1. 
-- Guardias de seguridad. 
-- Limpieza. 
-- Luz. 
-- Agua. 
-- Piscinero. 
-- Jardinería. 
-- Ascensores. 
-- Administración. 
+    - Guardias de seguridad. 
+    - Limpieza. 
+    - Luz. 
+    - Agua. 
+    - Piscinero. 
+    - Jardinería. 
+    - Ascensores. 
+    - Administración. 
 
 4. **Directorio:** Encuentra información de contacto de la directiva y administración del condominio.
     - [Roy Ruddy Paz Demiquel (Presidente)](https://github.com/Condominio-Santa-Maria/.github/wiki/Presidente)
