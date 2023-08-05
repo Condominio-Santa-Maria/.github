@@ -13,8 +13,9 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 ## Contenidos de la Wiki
 
 1. **Historia del Condominio:** Conoce más sobre los orígenes y la evolución de nuestra comunidad.
-2. **Normativas y Reglamentos:** Información sobre las reglas de convivencia, uso de áreas comunes y otros aspectos relevantes.
-3. **Directorio:** Encuentra información de contacto de la directiva y administración del condominio.
+2. **Normativas y Reglamentos:** Información sobre las reglas de convivencia, uso de áreas comunes y otros aspectos relevantes. 
+3. **Normativas y Reglamentos:** Información sobre las reglas de convivencia, uso de áreas comunes y otros aspectos relevantes.
+4. **Directorio:** Encuentra información de contacto de la directiva y administración del condominio.
     - [Roy Ruddy Paz Demiquel (Presidente)](https://github.com/Condominio-Santa-Maria/.github/wiki/Presidente)
     - [Mauro Hurtado (Vicepresidente)](https://github.com/Condominio-Santa-Maria/.github/wiki/Vicepresidente)
     - [Ursula Echazú (Tesorera)](https://github.com/Condominio-Santa-Maria/.github/wiki/Tesorero)
@@ -22,16 +23,16 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 5. **Eventos y Anuncios:** Mantente al día con las últimas noticias y eventos de la comunidad.
     - [26/07/2023 (Asamblea Pintado y Guardias)](https://github.com/Condominio-Santa-Maria/.github/wiki/Asamblea26072023)
     - 
-7. **Proyectos y Mejoras:** Información sobre las propuestas y proyectos en marcha para el beneficio del condominio.
+6. **Proyectos y Mejoras:** Información sobre las propuestas y proyectos en marcha para el beneficio del condominio.
 
 - [26/07/2023 (Personeria Juridica)](https://github.com/Condominio-Santa-Maria/.github/wiki/PersoneriaJuridica)
 - [26/07/2023 (Pintado)](https://github.com/Condominio-Santa-Maria/.github/wiki/Pintado26072023)
 - [26/07/2023 (Cambio de Guardias)](https://github.com/Condominio-Santa-Maria/.github/wiki/CambioGuardias26072023)
 
- 6. **Informes Econónimcos:** Información del estado financiero del condominio.
+ 7. **Informes Econónimcos:** Información del estado financiero del condominio.
 
 <details>
-  <summary>- 6.1 Pagos mensuales y deudas</summary>
+  <summary>- 7.1 Pagos mensuales y deudas</summary>
 
     
 | DEPTO | PROPIETARIO    | G-2022   | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC | Otros | TOTAL DEUDA |
