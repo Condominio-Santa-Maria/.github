@@ -1,7 +1,6 @@
 # Condominio Santa María I
-## Subtitulo
-### Subtitulo 
-#### otro
+
+![image](https://github.com/Condominio-Santa-Maria/.github/assets/141468794/0f3b8637-0e1c-47f0-93e4-0a27f0f72f9b)
 
 
 Bienvenidos a la Wiki oficial del **Condominio Santa María I**. Este espacio ha sido creado con el propósito de proporcionar a los propietarios y residentes toda la información relevante relacionada con nuestra comunidad.
