@@ -34,9 +34,9 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
     - 
 6. **Proyectos y Mejoras:** Información sobre las propuestas y proyectos en marcha para el beneficio del condominio.
 
-- [26/07/2023 (Personeria Juridica)](https://github.com/Condominio-Santa-Maria/.github/wiki/PersoneriaJuridica)
-- [26/07/2023 (Pintado)](https://github.com/Condominio-Santa-Maria/.github/wiki/Pintado26072023)
-- [26/07/2023 (Cambio de Guardias)](https://github.com/Condominio-Santa-Maria/.github/wiki/CambioGuardias26072023)
+    - [26/07/2023 (Personeria Juridica)](https://github.com/Condominio-Santa-Maria/.github/wiki/PersoneriaJuridica)
+    - [26/07/2023 (Pintado)](https://github.com/Condominio-Santa-Maria/.github/wiki/Pintado26072023)
+    - [26/07/2023 (Cambio de Guardias)](https://github.com/Condominio-Santa-Maria/.github/wiki/CambioGuardias26072023)
 
  7. **Informes Econónimcos:** Información del estado financiero del condominio.
 
