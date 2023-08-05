@@ -39,5 +39,6 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 |       |                                    | 35.700,00  | 2.200 | 3.000 | 3.000 | 3.750 | 4.500 | 6.600 | 10.050 | 600 | 0 | 0 | 0 | 0 | 300   |            | 69.700,00  |
 
 
+
 Te invitamos a explorar esta wiki que nos ayuda fortaleciendo el sentido de comunidad y mejorando la vida en el Condominio Santa María I. Si tienes alguna sugerencia o información para agregar, no dudes en contactar a la administración.
 
