@@ -30,14 +30,15 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 
  7. **Informes Econónimcos:** Información del estado financiero del condominio.
 
-| # | DEPTO | PROPIETARIO | G-2022 | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC | Multas Alquileres | TOTAL |
-|---|-------|--------------|--------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|------------------|-------|
-| 1 | 101   | Elda Añez (con compromiso de pago) | 5.700,00 | 800 | 800 | 800 | 800 | 800 | 800 | x | x | | | | | | 10.500,00 |
-| 2 | 102   | Ruddy Paz | 0,00 | x | x | x | x | x | x | x | 600 | | | | | | 600,00 |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
-| 39 | 1003 | Katitza Kubber | 0,00 | x | x | x | x | x | x | 500 | | | | | | | 500,00 |
-| 4+3:420 | 1004 | Lorena Landivar | 0,00 | x | x | x | x | x | x | x | | | | | | | 0,00 |
-| | | TOTAL | 35.700,00 | 2.200 | 3.000 | 3.000 | 3.750 | 4.500 | 6.600 | 10.050 | 600 | 0 | 0 | 0 | 0 | 300 | 69.700,00 |
+| DEPTO | PROPIETARIO                         | G-2022     | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC | Multas | Alquileres | TOTAL      |
+|-------|------------------------------------|------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-------|------------|------------|
+| 101   | Elda Añez (con compromiso de pago) | 5.700,00   | 800 | 800 | 800 | 800 | 800 | 800 | x   | x   |     |     |     |     |       |            | 10.500,00  |
+| 102   | Ruddy Paz                           | 0,00       | x   | x   | x   | x   | x   | x   | x   | 600 |     |     |     |     |       |            | 600,00     |
+| 103   | Lorena Leigue                      | 0,00       | x   | x   | x   | 750 | 800 | 800 | 800 |     |     |     |     | 50  |       |            | 3.200,00   |
+... (truncado para simplificar)
+| 1004  | Lorena Landivar                    | 0,00       | x   | x   | x   | x   | x   | x   | x   |     |     |     |     |     |       |            | 0,00       |
+|       |                                    | 35.700,00  | 2.200 | 3.000 | 3.000 | 3.750 | 4.500 | 6.600 | 10.050 | 600 | 0 | 0 | 0 | 0 | 300   |            | 69.700,00  |
+
 
 ![image](https://github.com/Condominio-Santa-Maria/.github/assets/141468794/9345a6a1-c1b6-40b4-b0ba-06d5b6122707)
 
