@@ -1,5 +1,7 @@
 # Condominio Santa María I
-
+## Subtitulo
+### Subtitulo 
+#### otro
 
 
 Bienvenidos a la Wiki oficial del **Condominio Santa María I**. Este espacio ha sido creado con el propósito de proporcionar a los propietarios y residentes toda la información relevante relacionada con nuestra comunidad.
