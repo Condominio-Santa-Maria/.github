@@ -41,7 +41,7 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
  7. **Informes Econónimcos:** Información del estado financiero del condominio.
 
 <details>
-  <summary>- 7.1 Pagos mensuales y deudas</summary>
+  <summary>### 7.1 2023</summary>
 
     
 | DEPTO | PROPIETARIO    | G-2022   | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC | Otros | TOTAL DEUDA |
