@@ -31,24 +31,8 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
  6. **Informes Econónimcos:** Información del estado financiero del condominio.
 
 <details>
-  <summary>Click me</summary>
+  <summary>- 6.1 Pagos mensuales y deudas</summary>
 
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
-
-    
-- 6.1 Pagos mensuales y deudas
     
 | DEPTO | PROPIETARIO    | G-2022   | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC | Otros | TOTAL DEUDA |
 |-------|----------------|----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-------|-------------|
@@ -58,6 +42,8 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 | ...   | ...            | ...      | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ...   | ...         |
 | 1004  | Lorena Landivar| 0,00     | x   | x   | x   | x   | x   | x   | x   |     |     |     |     |     |       |             |
 | TOTAL |                | 35.700,00| 2.2k| 3k  | 3k  | 3.75k|4.5k|6.6k|10.05k|600  | 0   | 0   | 0   | 0   | 300   | 69.700,00   |
+
+</details>
 
 Te invitamos a explorar esta wiki que nos ayuda fortaleciendo el sentido de comunidad y mejorando la vida en el Condominio Santa María I. Si tienes alguna sugerencia o información para agregar, no dudes en contactar a la administración.
 
