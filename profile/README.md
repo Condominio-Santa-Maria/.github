@@ -42,20 +42,6 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 
     - [Gestión 2023](https://github.com/Condominio-Santa-Maria/.github/wiki/informeEconomico2023)
 
-<details>
-  <summary>Gestión 2023</summary>
-
-    
-| DEPTO | PROPIETARIO    | G-2022   | ENE | FEB | MAR | ABR | MAY | JUN | JUL | AGO | SEP | OCT | NOV | DIC | Otros | TOTAL DEUDA |
-|-------|----------------|----------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-------|-------------|
-| 101   | Elda Añez      | 5.700,00 | 800 | 800 | 800 | 800 | 800 | 800 | x   | x   |     |     |     |     |       | 10.500,00   |
-| 102   | Ruddy Paz      | 0,00     | x   | x   | x   | x   | x   | x   | x   | 600 |     |     |     |     |       |             |
-| 103   | Lorena LeiguE  | 0,00     | x   | x   | x   | 750 | 800 | 800 | 800 |     |     |     |     |     | 50    | 3.200,00    |
-| ...   | ...            | ...      | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ...   | ...         |
-| 1004  | Lorena Landivar| 0,00     | x   | x   | x   | x   | x   | x   | x   |     |     |     |     |     |       |             |
-| TOTAL |                | 35.700,00| 2.2k| 3k  | 3k  | 3.75k|4.5k|6.6k|10.05k|600  | 0   | 0   | 0   | 0   | 300   | 69.700,00   |
-
-</details>
 
 Te invitamos a explorar esta wiki que nos ayuda fortaleciendo el sentido de comunidad y mejorando la vida en el Condominio Santa María I. Si tienes alguna sugerencia o información para agregar, no dudes en contactar a la administración.
 
