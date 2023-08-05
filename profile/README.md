@@ -40,7 +40,7 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 
  7. **Informes Econónimcos:** Información del estado financiero del condominio.
 
-    - <details>
+<details>
   <summary>Gestión 2023</summary>
 
     
