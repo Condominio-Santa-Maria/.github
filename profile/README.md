@@ -18,7 +18,7 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
     - Guardias de seguridad. 
     - Limpieza. 
     - Luz. 
-    - Agua(https://github.com/Condominio-Santa-Maria/.github/wiki/Agua)
+    - Agua.
     - Piscinero. 
     - Jardinería. 
     - Ascensores. 
