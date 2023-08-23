@@ -17,7 +17,7 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 3. **Servicios:** Información sobre los servicios que brinda el Condominio Santa María1. 
     - Guardias de seguridad. 
     - [Limpieza](https://github.com/Condominio-Santa-Maria/.github/wiki/Limpieza). 
-    - Luz. 
+    - [Luz](https://github.com/Condominio-Santa-Maria/.github/wiki/Luz). 
     - Agua.
     - Piscinero. 
     - Jardinería. 
