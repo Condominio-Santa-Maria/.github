@@ -16,7 +16,7 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 2. **Normativas y Reglamentos:** Información sobre las reglas de convivencia, uso de áreas comunes y otros aspectos relevantes. 
 3. **Servicios:** Información sobre los servicios que brinda el Condominio Santa María1. 
     - Guardias de seguridad. 
-    - Limpieza. 
+    - [Limpieza](Limpieza). 
     - Luz. 
     - Agua.
     - Piscinero. 
