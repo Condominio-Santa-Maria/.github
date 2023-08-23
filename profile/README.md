@@ -25,7 +25,7 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
     - Administración. 
 
 4. **Directorio:** Encuentra información de contacto de la directiva y administración del condominio.
-    - [Roy Ruddy Paz Demiquel (Presidente)](https://github.com/Condominio-Santa-Maria/.github/wiki/Presidente)
+    - [Roy Ruddy Paz Demiquel (Presidente)](https://github.com/Condominio-Santa-Maria/.github/wiki/102)
     - [Mauro Hurtado (Vicepresidente)](https://github.com/Condominio-Santa-Maria/.github/wiki/Vicepresidente)
     - [Ursula Echazú (Tesorera)](https://github.com/Condominio-Santa-Maria/.github/wiki/Tesorero)
 
