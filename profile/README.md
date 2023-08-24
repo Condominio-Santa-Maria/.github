@@ -15,15 +15,14 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 1. **Historia del Condominio:** Conoce más sobre los orígenes y la evolución de nuestra comunidad.
 2. **Normativas y Reglamentos:** Información sobre las reglas de convivencia, uso de áreas comunes y otros aspectos relevantes. 
 3. **Servicios:** Información sobre los servicios que brinda el Condominio Santa María1. 
-    - Guardias de seguridad. 
+    - [CRE](https://github.com/Condominio-Santa-Maria/.github/wiki/CRE). 
+    - [SAGUAPAC](https://github.com/Condominio-Santa-Maria/.github/wiki/SAGUAPAC).
+    - [Acuacenter](https://github.com/Condominio-Santa-Maria/.github/wiki/Acuacenter). 
+    - [INTERLOGI](https://github.com/Condominio-Santa-Maria/.github/wiki/INTERLOGI). 
+    - [Administración](https://github.com/Condominio-Santa-Maria/.github/wiki/Adminidtración).
     - [Limpieza](https://github.com/Condominio-Santa-Maria/.github/wiki/Limpieza). 
-    - [Luz](https://github.com/Condominio-Santa-Maria/.github/wiki/Luz). 
-    - [Agua](https://github.com/Condominio-Santa-Maria/.github/wiki/Agua).
-    - Piscinero. 
-    - Jardinería. 
-    - Ascensores. 
-    - Administración. 
-
+    - [Portería](https://github.com/Condominio-Santa-Maria/.github/wiki/Portería).
+    - [Jardinería](https://github.com/Condominio-Santa-Maria/.github/wiki/Jardinería). 
 4. **Directorio:** Encuentra información de contacto de la directiva y administración del condominio.
     - [Roy Ruddy Paz Demiquel (Presidente)](https://github.com/Condominio-Santa-Maria/.github/wiki/102)
     - [Mauro Hurtado (Vicepresidente)](https://github.com/Condominio-Santa-Maria/.github/wiki/Vicepresidente)
