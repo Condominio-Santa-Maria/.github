@@ -17,6 +17,7 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 3. **Servicios:** Información sobre los servicios que brinda el Condominio Santa María1. 
     - [CRE](https://github.com/Condominio-Santa-Maria/.github/wiki/CRE). 
     - [SAGUAPAC](https://github.com/Condominio-Santa-Maria/.github/wiki/SAGUAPAC).
+    - [ENTEL](https://github.com/Condominio-Santa-Maria/.github/wiki/ENTEL).
     - [Acuacenter](https://github.com/Condominio-Santa-Maria/.github/wiki/Acuacenter). 
     - [INTERLOGI](https://github.com/Condominio-Santa-Maria/.github/wiki/INTERLOGI). 
     - [Administración](https://github.com/Condominio-Santa-Maria/.github/wiki/Adminidtración).
