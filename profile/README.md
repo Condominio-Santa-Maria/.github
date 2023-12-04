@@ -21,7 +21,7 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
     - [Acuacenter](https://github.com/Condominio-Santa-Maria/.github/wiki/Acuacenter). 
     - [INTERLOGI](https://github.com/Condominio-Santa-Maria/.github/wiki/INTERLOGI). 
     - [Administración](https://github.com/Condominio-Santa-Maria/.github/wiki/Adminidtración).
-    - [CleaningFull](https://github.com/Condominio-Santa-Maria/.github/wiki/Limpieza).
+    - [Limpieza](https://github.com/Condominio-Santa-Maria/.github/wiki/Limpieza).
     - [Portería](https://github.com/Condominio-Santa-Maria/.github/wiki/Portería).
     - [Jardinería](https://github.com/Condominio-Santa-Maria/.github/wiki/Jardinería). 
 4. **Directorio:** Encuentra información de contacto de la directiva y administración del condominio.
