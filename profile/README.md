@@ -14,17 +14,17 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 
 1. **Historia del Condominio:** Conoce más sobre los orígenes y la evolución de nuestra comunidad.
 3. **Normativas y Reglamentos:** Información sobre las reglas de convivencia, uso de áreas comunes y otros aspectos relevantes.
-    - [Reglamento](https://github.com/Condominio-Santa-Maria/.github/wiki/Reglamento). 
+    - [Reglamento](https://github.com/Condominio-Santa-Maria/.github/wiki/Reglamento)
 5. **Servicios:** Información sobre los servicios que brinda el Condominio Santa María1. 
-    - [CRE](https://github.com/Condominio-Santa-Maria/.github/wiki/CRE). 
-    - [SAGUAPAC](https://github.com/Condominio-Santa-Maria/.github/wiki/SAGUAPAC).
-    - [ENTEL](https://github.com/Condominio-Santa-Maria/.github/wiki/ENTEL).
-    - [Aquacenter](https://github.com/Condominio-Santa-Maria/.github/wiki/Aquacenter). 
-    - [INTERLOGI](https://github.com/Condominio-Santa-Maria/.github/wiki/INTERLOGI). 
-    - [Administración](https://github.com/Condominio-Santa-Maria/.github/wiki/Administracion).
-    - [CleaningFull](https://github.com/Condominio-Santa-Maria/.github/wiki/CleaningFull).
-    - [Portería](https://github.com/Condominio-Santa-Maria/.github/wiki/Portería).
-    - [Jardinería](https://github.com/Condominio-Santa-Maria/.github/wiki/Jardinería). 
+    - [CRE](https://github.com/Condominio-Santa-Maria/.github/wiki/CRE)
+    - [SAGUAPAC](https://github.com/Condominio-Santa-Maria/.github/wiki/SAGUAPAC)
+    - [ENTEL](https://github.com/Condominio-Santa-Maria/.github/wiki/ENTEL)
+    - [Aquacenter](https://github.com/Condominio-Santa-Maria/.github/wiki/Aquacenter)
+    - [INTERLOGI](https://github.com/Condominio-Santa-Maria/.github/wiki/INTERLOGI)
+    - [Administración](https://github.com/Condominio-Santa-Maria/.github/wiki/Administracion)
+    - [CleaningFull](https://github.com/Condominio-Santa-Maria/.github/wiki/CleaningFull)
+    - [Portería](https://github.com/Condominio-Santa-Maria/.github/wiki/Portería)
+    - [Jardinería](https://github.com/Condominio-Santa-Maria/.github/wiki/Jardinería)
 6. **Directorio:** Encuentra información de contacto de la directiva y administración del condominio.
     - [Roy Ruddy Paz Demiquel (Presidente)](https://github.com/Condominio-Santa-Maria/.github/wiki/102)
     - [Mauro Hurtado (Vicepresidente)](https://github.com/Condominio-Santa-Maria/.github/wiki/Vicepresidente)
