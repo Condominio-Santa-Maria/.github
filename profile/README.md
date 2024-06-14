@@ -13,9 +13,13 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 ## Contenidos de la Wiki
 
 1. **Historia del Condominio:** Conoce más sobre los orígenes y la evolución de nuestra comunidad.
-3. **Normativas y Reglamentos:** Información sobre las reglas de convivencia, uso de áreas comunes y otros aspectos relevantes.
+
+2. **Normativas y Reglamentos:** Información sobre las reglas de convivencia, uso de áreas comunes y otros aspectos relevantes.
     - [Reglamento](https://github.com/Condominio-Santa-Maria/.github/wiki/Reglamento)
-5. **Servicios:** Información sobre los servicios que brinda el Condominio Santa María1. 
+    - [Reglamento](https://github.com/Condominio-Santa-Maria/.github/wiki/Reglamento)
+    - [Reglamento](https://github.com/Condominio-Santa-Maria/.github/wiki/Reglamento)
+     
+3. **Servicios:** Información sobre los servicios que brinda el Condominio Santa María1. 
     - [CRE](https://github.com/Condominio-Santa-Maria/.github/wiki/CRE)
     - [SAGUAPAC](https://github.com/Condominio-Santa-Maria/.github/wiki/SAGUAPAC)
     - [ENTEL](https://github.com/Condominio-Santa-Maria/.github/wiki/ENTEL)
@@ -24,23 +28,23 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
     - [Administración](https://github.com/Condominio-Santa-Maria/.github/wiki/Administracion)
     - [CleaningFull](https://github.com/Condominio-Santa-Maria/.github/wiki/CleaningFull)
     - [Portería](https://github.com/Condominio-Santa-Maria/.github/wiki/Portería)
-    - [Jardinería](https://github.com/Condominio-Santa-Maria/.github/wiki/Jardinería)
-6. **Directorio:** Encuentra información de contacto de la directiva y administración del condominio.
+    - [Jardinería](https://github.com/Condominio-Santa-Maria/.github/wiki/Jardinería)ç
+
+4. **Directorio:** Encuentra información de contacto de la directiva y administración del condominio.
     - [Roy Ruddy Paz Demiquel (Presidente)](https://github.com/Condominio-Santa-Maria/.github/wiki/102)
     - [Mauro Hurtado (Vicepresidente)](https://github.com/Condominio-Santa-Maria/.github/wiki/Vicepresidente)
     - [Ursula Echazú (Tesorera)](https://github.com/Condominio-Santa-Maria/.github/wiki/Tesorero)
 
-7. **Eventos y Anuncios:** Mantente al día con las últimas noticias y eventos de la comunidad.
+5. **Eventos y Anuncios:** Mantente al día con las últimas noticias y eventos de la comunidad.
     - [Asambleas](https://github.com/Condominio-Santa-Maria/.github/wiki/Asambleas)
     - [Incidencias](https://github.com/Condominio-Santa-Maria/.github/wiki/Incidencias)
-8. **Proyectos y Mejoras:** Información sobre las propuestas y proyectos en marcha para el beneficio del condominio.
 
+6. **Proyectos y Mejoras:** Información sobre las propuestas y proyectos en marcha para el beneficio del condominio.
     - [26/07/2023 (Personeria Juridica)](https://github.com/Condominio-Santa-Maria/.github/wiki/PersoneriaJuridica)
     - [26/07/2023 (Pintado)](https://github.com/Condominio-Santa-Maria/.github/wiki/Pintado26072023)
     - [26/07/2023 (Cambio de Guardias)](https://github.com/Condominio-Santa-Maria/.github/wiki/CambioGuardias26072023)
 
- 9. **Informes Econónimcos:** Información del estado financiero del condominio.
-
+7. **Informes Econónimcos:** Información del estado financiero del condominio.
     - [Gestión 2024](https://github.com/Condominio-Santa-Maria/.github/wiki/InformeEconómico2024)
     - [Gestión 2023](https://github.com/Condominio-Santa-Maria/.github/wiki/InformeEconómico2023)
 
