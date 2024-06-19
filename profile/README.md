@@ -31,7 +31,7 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
     - [Administración](https://github.com/Condominio-Santa-Maria/.github/wiki/Administracion)
     - [CleaningFull](https://github.com/Condominio-Santa-Maria/.github/wiki/CleaningFull)
     - [Portería](https://github.com/Condominio-Santa-Maria/.github/wiki/Portería)
-    - [Jardinería](https://github.com/Condominio-Santa-Maria/.github/wiki/Jardinería)ç
+    - [Jardinería](https://github.com/Condominio-Santa-Maria/.github/wiki/Jardinería)
 
 5. **Directorio:** Encuentra información de contacto de la directiva y administración del condominio.
     - [Roy Ruddy Paz Demiquel (Presidente)](https://github.com/Condominio-Santa-Maria/.github/wiki/102)
