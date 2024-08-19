@@ -16,6 +16,8 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 
 ![Estado cuenta Santa María 1](https://github.com/user-attachments/assets/ed34d590-10fe-4701-8ae9-532ffe9158af)
 
+[Descarga el detalle](https://github.com/user-attachments/files/16663978/AccountMovementsDetail.xls)
+
 
 2. **Normativas y Reglamentos:** Información sobre las reglas de convivencia, uso de áreas comunes y otros aspectos relevantes.
     - [Reglamento](https://github.com/Condominio-Santa-Maria/.github/wiki/Reglamento)
