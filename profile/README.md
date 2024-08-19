@@ -14,7 +14,8 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 
 1. **Estado Financiero:** 
 
-![image](https://github.com/user-attachments/assets/d773f3c0-6b77-42f3-9bd2-c68b7a4c32e3)
+![Estado cuenta Santa María 1](https://github.com/user-attachments/assets/0491e2e3-6ea2-4e4e-923b-f8270dc3e03e)
+
 
 [Descarga el detalle](https://github.com/user-attachments/files/16663978/AccountMovementsDetail.xls)
 
