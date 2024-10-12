@@ -34,7 +34,7 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
     - [ENTEL](https://github.com/Condominio-Santa-Maria/.github/wiki/ENTEL)
     - [Aquacenter](https://github.com/Condominio-Santa-Maria/.github/wiki/Aquacenter)
     - [INTERLOGI](https://github.com/Condominio-Santa-Maria/.github/wiki/INTERLOGI)
-    - [Administración](https://github.com/Condominio-Santa-Maria/.github/wiki/Administracion)
+    - [Administracion](https://github.com/Condominio-Santa-Maria/.github/wiki/Administracion)
     - [CleaningFull](https://github.com/Condominio-Santa-Maria/.github/wiki/CleaningFull)
     - [Portería](https://github.com/Condominio-Santa-Maria/.github/wiki/Portería)
     - [Jardinería](https://github.com/Condominio-Santa-Maria/.github/wiki/Jardinería)
