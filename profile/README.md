@@ -18,9 +18,9 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 xychart-beta
     title "Resultados por gestion"
     x-axis [2023, 2024, 2025]
-    y-axis "Ingresos (en Bs.)" 4000 --> 11000
-    bar [0, 0, 0]
-    line [0, 0, 0]
+    y-axis "Ingresos (en Bs.)" 4000 --> 50000
+    bar [35472,13, 0, 0]
+    line [35472,13, 0, 0]
 
 ```
 
