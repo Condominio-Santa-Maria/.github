@@ -20,7 +20,7 @@ graph TD;
     A-->C;
     B-->D;
     C-->D;
-
+```
 ![Estado cuenta Santa María 1](https://github.com/user-attachments/assets/0491e2e3-6ea2-4e4e-923b-f8270dc3e03e)
 
 
