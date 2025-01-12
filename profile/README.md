@@ -17,10 +17,10 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 ```mermaid
 xychart-beta
     title "Sales Revenue"
-    x-axis [2023-jan, 2023-feb, 2023-mar, 2023-apr, 2023-may, 2023-jun, 2023-jul, 2023-aug, 2023-sep, 2023-oct, 2023-nov, 2023-dec,2024-jan, 2024-feb, 2023-mar, 2023-apr, 2023-may, 2023-jun, 2023-jul, 2023-aug, 2023-sep, 2023-oct, 2023-nov, 2023-dec]
+    x-axis [Ene, Feb, Mar, Abr, May, Jun, Jul, Ago, Sep, Oct, Nov, Dic]
     y-axis "Ingresos (en Bs.)" 4000 --> 11000
-    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000, 5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
-    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000, 5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
 
 ```
 ![Estado cuenta Santa María 1](https://github.com/user-attachments/assets/0491e2e3-6ea2-4e4e-923b-f8270dc3e03e)
