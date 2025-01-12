@@ -54,6 +54,7 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
     - [26/07/2023 (Cambio de Guardias)](https://github.com/Condominio-Santa-Maria/.github/wiki/CambioGuardias26072023)
 
 8. **Informes Econónimcos:** Información del estado financiero del condominio.
+    - [Gestión 2025](https://github.com/Condominio-Santa-Maria/.github/wiki/InformeEconómico2025)
     - [Gestión 2024](https://github.com/Condominio-Santa-Maria/.github/wiki/InformeEconómico2024)
     - [Gestión 2023](https://github.com/Condominio-Santa-Maria/.github/wiki/InformeEconómico2023)
 
