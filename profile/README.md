@@ -16,7 +16,7 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 
 ```mermaid
 xychart-beta
-    title "Sales Revenue"
+    title "Ingresos en Bs."
     x-axis [Ene, Feb, Mar, Abr, May, Jun, Jul, Ago, Sep, Oct, Nov, Dic]
     y-axis "Ingresos (en Bs.)" 4000 --> 11000
     bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
