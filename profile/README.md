@@ -16,7 +16,7 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 
 ```mermaid
 xychart-beta
-    title "Ingresos en Bs."
+    title "Resultados por gestion"
     x-axis [2023, 2024, 2025]
     y-axis "Ingresos (en Bs.)" 4000 --> 11000
     bar [0, 0, 0]
