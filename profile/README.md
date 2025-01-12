@@ -19,8 +19,8 @@ xychart-beta
     title "Resultados por gestion"
     x-axis [2023, 2024, 2025]
     y-axis "Ingresos (en Bs.)" 4000 --> 50000
-    bar [35472,13, 0, 0]
-    line [35472,13, 0, 0]
+    bar [35472,13, 39793.89, 0]
+    line [35472,13, 39793.89, 0]
 
 ```
 
