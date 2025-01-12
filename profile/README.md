@@ -15,11 +15,13 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 1. **Estado Financiero:**
 
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+xychart-beta
+    title "Sales Revenue"
+    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]
+    y-axis "Revenue (in $)" 4000 --> 11000
+    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+    line [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]
+
 ```
 ![Estado cuenta Santa María 1](https://github.com/user-attachments/assets/0491e2e3-6ea2-4e4e-923b-f8270dc3e03e)
 
