@@ -23,11 +23,6 @@ xychart-beta
     line [0, 0, 0]
 
 ```
-![Estado cuenta Santa María 1](https://github.com/user-attachments/assets/0491e2e3-6ea2-4e4e-923b-f8270dc3e03e)
-
-
-[Descarga el detalle](https://github.com/user-attachments/files/16663978/AccountMovementsDetail.xls)
-
 
 2. **Normativas y Reglamentos:** Información sobre las reglas de convivencia, uso de áreas comunes y otros aspectos relevantes.
     - [Reglamento](https://github.com/Condominio-Santa-Maria/.github/wiki/Reglamento)
