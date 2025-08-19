@@ -31,7 +31,7 @@ xychart-beta
 2. **Normativas y Reglamentos:** Información sobre las reglas de convivencia, uso de áreas comunes y otros aspectos relevantes.
     - [Reglamento](https://github.com/Condominio-Santa-Maria/.github/wiki/Reglamento)
     - [Manual de funciones](https://github.com/Condominio-Santa-Maria/.github/wiki/ManualFunciones)
-
+    - [Estatutos](https://github.com/Condominio-Santa-Maria/.github/wiki/Estatutos)
 
 3. **Telefonos de contacto emergencia:** Información sobre los proveedores de diferentes servicios.
     - [Listado de contactos de emergencia](https://github.com/Condominio-Santa-Maria/.github/wiki/ContactosEmergencia)
