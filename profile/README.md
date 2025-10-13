@@ -18,15 +18,6 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 
 1. **Estado Financiero:**
 
-```mermaid
-xychart-beta
-    title "Resultados por gestion"
-    x-axis [2023, 2024, 2025]
-    y-axis "Ingresos (en Bs.)" 4000 --> 50000
-    bar [35472.13, 39793.89, 0]
-    line [35472.13, 39793.89, 0]
-
-```
 
 2. **Normativas y Reglamentos:** Información sobre las reglas de convivencia, uso de áreas comunes y otros aspectos relevantes.
     - [Reglamento](https://github.com/Condominio-Santa-Maria/.github/wiki/Reglamento)
