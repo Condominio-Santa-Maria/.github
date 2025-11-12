@@ -12,7 +12,6 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
 
 ## Trabajos y estado actual del condominio
 
-### test ruddy
 
 [Proyecto](https://github.com/orgs/Condominio-Santa-Maria/projects/2/views/1)
 
