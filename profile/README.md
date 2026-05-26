@@ -24,7 +24,6 @@ Ubicado en el corazón de Santa Cruz, el Condominio Santa María I ha sido hogar
     - [Reglamento](https://github.com/Condominio-Santa-Maria/.github/wiki/Reglamento)
     - [Manual de funciones](https://github.com/Condominio-Santa-Maria/.github/wiki/ManualFunciones)
     - [Estatutos](https://github.com/Condominio-Santa-Maria/.github/wiki/Estatutos)
-    - [Ley Autonomica Municipal N°37 Tenencia de aninales](https://github.com/Condominio-Santa-Maria/.github/wiki/Ley Autonomica Municipal N°37 Tenencia de aninales)
       
 3. **Telefonos de contacto emergencia:** Información sobre los proveedores de diferentes servicios.
     - [Listado de contactos de emergencia](https://github.com/Condominio-Santa-Maria/.github/wiki/ContactosEmergencia)
